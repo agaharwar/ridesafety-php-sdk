@@ -2,7 +2,7 @@
   "name": "ridesafety/sdk",
   "description": "RideSafety Developer API SDK",
   "type": "library",
-  "license": "UNLICENSED",
+  "license": "proprietary",
   "require": {
     "php": ">=8.1"
   },
